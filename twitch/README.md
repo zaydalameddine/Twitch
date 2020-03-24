@@ -1,10 +1,6 @@
-# Codecademy + Twitch
-
-https://www.codecademy.com/courses/dspath-twitch/articles/twitch-project
+# Twitch
 
 [Twitch.tv](www.twitch.tv) is the world's leading video platform and community where millions of people and thousands of interests collide in a beautiful explosion of video games, pop culture, and conversation.
-
-In the Data Science Path Cumulative Project, we have partnered with the [Twitch Science Team](https://science.twitch.tv/) and we were given a scrubbed dataset (800,000 rows) that describe user engagmeent with Twitch stream and Twitch chat on January 1st, 2015:
 
 - [x] [`stream.csv`](stream.csv)  
 - [x] [`chat.csv`](chat.csv)  
