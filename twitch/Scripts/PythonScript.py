@@ -6,7 +6,6 @@ Created on Tue Mar 24 16:48:44 2020
 """
 
 from matplotlib import pyplot as plt
-import numpy as np
 import pandas as pd
 
 LolViewers = pd.read_csv('LolViewersByCountry.csv')
