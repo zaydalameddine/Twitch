@@ -61,6 +61,7 @@ plt.show()
 # Line Graph: Time Series Analysis
 
 plt.plot(ViewersPerHour_US['hour'], ViewersPerHour_US['viewers'])
+plt.figure(figsize=(12,8))
 
 plt.title("Time Series")
 
@@ -70,7 +71,7 @@ plt.ylabel("Viewers")
 ax = plt.subplot()
 
 ax.set_xticks(ViewersPerHour_US['hour'])
-ax.set_yticks([0, 20, 40, 60, 80, 100, 120])
+ax.set_yticks([0, 3000, 6000, 9000, 12000, 15000, 18000, 21000, 24000, 27000, 30000])
 
 y_upper = [i + (i*0.15) for i in ViewersPerHour_US['viewers']]
 y_lower = [i - (i*0.15) for i in ViewersPerHour_US['viewers']]
