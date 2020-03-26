@@ -1,5 +1,7 @@
 # Twitch
 
+For this project I worked with two datasets described below. I used SQLite to query certain data from these datasets explained in SQLiteScript. I plotted the query results using Matplotlib and Pandas in Python. The code for this is found in PythonScript.
+
 [Twitch.tv](www.twitch.tv) is the world's leading video platform and community where millions of people and thousands of interests collide in a beautiful explosion of video games, pop culture, and conversation.
 
 - [x] [`stream.csv`](stream.csv)  
