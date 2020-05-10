@@ -35,8 +35,3 @@ Headers | Description |
 
 ---
 
-Thank you Twitch Science Team for this partnership and especially:
-
-- [June Dershewitz](https://twitter.com/jdersh), Head of Data Governance & Analytics, Twitch
-- [Sharmeen Browarek](https://www.linkedin.com/in/sharmeenbrowarek/), Product Manager, Twitch
-- [Carson Forter](https://twitter.com/carsonforter), Data Scientist, Twitch
